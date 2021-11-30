@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925060402927",
+    "firebase_url": "https://partauthentication-default-rtdb.firebaseio.com",
+    "project_id": "partauthentication",
+    "storage_bucket": "partauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925060402927:android:f74335a3b913e1de7b551a",
+        "android_client_info": {
+          "package_name": "id.ub.part1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925060402927-ssn52vuoee9t4h5oqdhl644ohj274uq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYISHn-TJC_HI5ZCmdgtI3XBCOa8s2-fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925060402927-ssn52vuoee9t4h5oqdhl644ohj274uq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
