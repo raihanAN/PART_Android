@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">925060402927-ssn52vuoee9t4h5oqdhl644ohj274uq1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://partauthentication-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">925060402927</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYISHn-TJC_HI5ZCmdgtI3XBCOa8s2-fM</string>
+    <string name="google_app_id" translatable="false">1:925060402927:android:f74335a3b913e1de7b551a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYISHn-TJC_HI5ZCmdgtI3XBCOa8s2-fM</string>
+    <string name="google_storage_bucket" translatable="false">partauthentication.appspot.com</string>
+    <string name="project_id" translatable="false">partauthentication</string>
+</resources>
